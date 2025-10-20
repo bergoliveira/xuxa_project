@@ -3,9 +3,16 @@
 public class mara {
 
     public static void main(String[] args) {
-        asdhasdah]ajdk
-                asdjakdja
-                ]asjd]asdjakdja
+        System.out.println("Mara");
+        asda
+                a
+                das
+                        da
+                        da
+                                dasd
+                                asdas
+                                        ads
+                                        das
     }
 
 }
